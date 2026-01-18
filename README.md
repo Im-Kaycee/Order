@@ -98,8 +98,3 @@ API documentation is available at `/api/docs/` when running the development serv
 ## Development Notes
 
 This project was developed as an educational tool for a school project. As such, certain development artifacts (database files, superuser creation scripts) have been included in the repository for demonstration purposes. In a production environment, these files should be excluded from version control.
-
-
-## Contact
-
-[Your contact information or project maintainer details]
